@@ -82,6 +82,8 @@ Quando desenvolvemos pensando em **todos os usuários**, estamos promovendo **in
 
 ---
 
-📌 *Esse artigo foi escrito com o objetivo de conscientizar e inspirar desenvolvedores a construírem soluções mais inclusivas e acessíveis. Se você curtiu, compartilhe e leve essa conversa adiante!*
+✍️ **Autor:** Márcio Alexandre de Paiva Gil  
+💻 Desenvolvedor Front-End em formação | Apoiador da inclusão digital  
+🔗 [GitHub](https://github.com/marciogil) | [LinkedIn](https://www.linkedin.com/in/marcio-gil)
 
 
